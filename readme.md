@@ -1,5 +1,5 @@
 # 3-setup-practice
-3기 0주차 git, conda 가상환경, env환경변수 세팅, api 호출
+3기 1주차 git, conda 가상환경, env환경변수 세팅, api 호출
 
 ## 제출 방법
 
